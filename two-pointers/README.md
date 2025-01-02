@@ -4,7 +4,7 @@
 Two Pointers is a problem-solving technique to solve certain problems involving an iterable data structure.
 There are three classifications for Two Pointers:
 - Same Direction
-- Opposite Directions
+- Opposite Direction
 - Sliding Window
 
 ## Exercises
