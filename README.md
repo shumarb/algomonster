@@ -1,8 +1,9 @@
 # AlgoMonster
 
 ## Overview
-This repository contains my summary of problem-solving techniques on [AlgoMonster](https://algo.monster), 
-and links to my solutions to LeetCode questions in the [Competitive Programming](https://github.com/shumarb/competitive-programming/) repository.
+This repository contains my summary of concepts and solutions to questions listed on [AlgoMonster](https://algo.monster).
+
+Some entries are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
 ## Techniques
 | Technique                                                                     |
