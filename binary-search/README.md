@@ -2,7 +2,6 @@
 
 ## Overview
 This folder contains my Binary Search [training](https://algo.monster/problems/binary_search_intro) submissions, sorted by completion order.
-Some entries are sourced from my [LeetCode](https://www.github.com/shumarb/leetcode) repository.
 
 | # | Question                                                                                                                   | Section      | Submission                                                                                          | Difficulty | Runtime | Rank |
 |---|----------------------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------|------------|---------|------|
