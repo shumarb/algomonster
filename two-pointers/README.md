@@ -1,13 +1,6 @@
 # Two Pointers
 
 ## Overview
-Two Pointers is a problem-solving technique to solve certain problems involving an iterable data structure.
-There are three classifications for Two Pointers:
-- Same Direction.
-- Opposite Direction.
-- Sliding Window.
-
-## Exercises
 This folder contains my Two Pointers [training](https://algo.monster/problems/two_pointers_intro) submissions,
 sorted by completion order.
 
