@@ -5,7 +5,8 @@ This folder contains my Two Pointers [training](https://algo.monster/problems/tw
 sorted by completion order.
 
 (*Note*:
-Additional (Classification) refers to questions I did that are not in training plan but are related to concepts taught).
+Additional (Classification)
+refers to questions I did that are not in the training plan but are related to concepts taught).
 
 | #    | Question                                                                                                                                   | Section                     | Submission                                                                                                       | Difficulty | Runtime | Rank     |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------------------------------------------------------------------------------------------|------------|---------|----------|
