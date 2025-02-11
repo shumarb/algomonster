@@ -34,6 +34,11 @@ This repository contains my solutions to questions listed on [AlgoMonster](https
 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)                                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RangeSumQueryImmutable.java)                      | 8ms     | 65.10% | Prefix Sum         | 
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/LinkedListCycle.java)                             | 0ms     | 100%   | Cycle Finding      | 
 
+### Depth First Search
+| Question                                                                                                | Submission                                                                                           | Runtime | Rank | Classification |
+|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------|------|----------------|
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MaximumDepthOfBinaryTree.java) | 0ms     | 100% | DFS on Tree    |
+
 ### Priority Queue / Heap
 | Question                                                                                                                      | Submission                                                                                                    | Runtime | Rank   | Classification |
 |-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|--------|----------------|
