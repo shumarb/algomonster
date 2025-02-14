@@ -1,10 +1,11 @@
 # AlgoMonster
 
 ## Overview
-This repository contains my solutions to questions listed on [AlgoMonster](https://algo.monster).
-Some of my submissions are sourced from my LeetCode repository.
+This repository contains my solutions to questions listed on [AlgoMonster](https://algo.monster),
+organised by the question sequence in the training plan.
+Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
-(Note: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
+(*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
 
 ### Binary Search
 | Question                                                                                                                   | Submission                                                                                                  | Runtime | Rank   | Classification          | 
