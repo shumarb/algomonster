@@ -37,9 +37,10 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/LinkedListCycle.java)                             | 0ms     | 100%   | Cycle Finding      | 
 
 ### Depth First Search
-| Question                                                                                                | Submission                                                                                           | Runtime | Rank | Classification |
-|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------|------|----------------|
-| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MaximumDepthOfBinaryTree.java) | 0ms     | 100% | DFS on Tree    |
+| Question                                                                                                | Submission                                                                                           | Runtime | Rank | Classification     |
+|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------|------|--------------------|
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MaximumDepthOfBinaryTree.java) | 0ms     | 100% | DFS on Tree        |
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/ValidateBinarySearchTree.java) | 0ms     | 100% | Binary Search Tree |
 
 ### Priority Queue / Heap
 | Question                                                                                                                      | Submission                                                                                                    | Runtime | Rank   | Classification |
