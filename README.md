@@ -48,6 +48,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 |---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------|--------|----------------|
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/BinaryTreeLevelOrderTraversal.java)       | 1ms     | 89.68% | BFS on Tree    |
 | [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/BinaryTreeZigZagLevelOrderTraversal.java) | 1ms     | 69.75% | BFS on Tree    |
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/BinaryTreeRightSideView.java)             | 1ms     | 71.42% | BFS on Tree    |
 
 ### Priority Queue / Heap
 | Question                                                                                                                      | Submission                                                                                                    | Runtime | Rank   | Classification |
