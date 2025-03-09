@@ -44,9 +44,10 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/ValidateBinarySearchTree.java) | 0ms     | 100% | Binary Search Tree |
 
 ### Breadth First Search
-| Question                                                                                                          | Submission                                                                                                | Runtime | Rank   | Classification |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------|--------|----------------|
-| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/BinaryTreeLevelOrderTraversal.java) | 1ms     | 89.68% | BFS on Tree    |
+| Question                                                                                                                        | Submission                                                                                                      | Runtime | Rank   | Classification |
+|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------|--------|----------------|
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/BinaryTreeLevelOrderTraversal.java)       | 1ms     | 89.68% | BFS on Tree    |
+| [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/BinaryTreeZigZagLevelOrderTraversal.java) | 1ms     | 69.75% | BFS on Tree    |
 
 ### Priority Queue / Heap
 | Question                                                                                                                      | Submission                                                                                                    | Runtime | Rank   | Classification |
