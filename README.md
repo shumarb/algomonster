@@ -43,6 +43,11 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/InvertBinaryTree.java)         | 0ms     | 100% | DFS on Tree        |
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/ValidateBinarySearchTree.java) | 0ms     | 100% | Binary Search Tree |
 
+### Breadth First Search
+| Question                                                                                                          | Submission                                                                                                | Runtime | Rank   | Classification |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------|--------|----------------|
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/BinaryTreeLevelOrderTraversal.java) | 1ms     | 89.68% | BFS on Tree    |
+
 ### Priority Queue / Heap
 | Question                                                                                                                      | Submission                                                                                                    | Runtime | Rank   | Classification |
 |-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|--------|----------------|
