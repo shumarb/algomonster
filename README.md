@@ -1,9 +1,8 @@
 # AlgoMonster
 
 ## Overview
-This repository contains my solutions to questions listed on [AlgoMonster](https://algo.monster),
-organised by the question sequence in the training plan.
-Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
+This repository contains my solutions to questions listed on [AlgoMonster](https://algo.monster).
+Some submissions are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
 (*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
 
@@ -56,8 +55,8 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 |-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|--------|----------------|
 | [Heap Fundamentals](https://algo.monster/problems/heap_intro)                                                                 | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/HeapFundamentals.java)                    | -       | -      | Introduction   |
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/KClosestPointsToOrigin.java)            | 30ms    | 63.52% | Top K          |
-| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MergeKSortedLists.java)                 | 5ms     | 35.39% | Top K          |
-| [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/KthLargestElementInAnArray.java)        | 39ms    | 73.11% | Top K          |
-| [Kth Smallest Element In A Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/KthSmallestElementInASortedMatrix.java) | 15ms    | 55.37% | Top K          |
+| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MergeKSortedLists.java)                 | 4ms     | 71.29% | Top K          |
+| [Kth Largest Element in An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/KthLargestElementInAnArray.java)        | 3ms     | 98.86% | Top K          |
+| [Kth Smallest Element In A Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/KthSmallestElementInASortedMatrix.java) | 11ms    | 65.35% | Top K          |
 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/UglyNumberTwo.java)                     | 2ms     | 98.25% | Moving Best    | 
 | [Median of Data Stream](https://algo.monster/problems/median_of_data_stream)                                                  | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MedianFinder.java)                      | 92ms    | 78.28% | Multiple Heaps |
