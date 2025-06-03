@@ -6,6 +6,7 @@ Some submissions are sourced from my [LeetCode](https://github.com/shumarb/leetc
 
 (*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
 
+## Submissions
 ### Binary Search
 | Question                                                                                                                   | Submission                                                                                                  | Runtime | Rank   | Classification          | 
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------|--------|-------------------------|
