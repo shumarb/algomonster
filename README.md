@@ -67,3 +67,8 @@ Some submissions are sourced from my [LeetCode](https://github.com/shumarb/leetc
 | [Kth Smallest Element In A Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/KthSmallestElementInASortedMatrix.java)   | 11ms    | 65.35% | Top K           |
 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UglyNumberTwo.java)                       | 2ms     | 98.25% | Moving Best     | 
 | [Median of Data Stream](https://algo.monster/problems/median_of_data_stream)                                                  | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MedianFinder.java)                        | 92ms    | 78.28% | Multiple Heaps  |
+
+### Dynamic Programming
+| Question                                                                | Submission                                                                         | Runtime | Rank | Category |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------|------|----------|
+| [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePaths.java) | 0ms     | 100% | Grid     |
