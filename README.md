@@ -69,6 +69,7 @@ Some submissions are sourced from my [LeetCode](https://github.com/shumarb/leetc
 | [Median of Data Stream](https://algo.monster/problems/median_of_data_stream)                                                  | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MedianFinder.java)                        | 92ms    | 78.28% | Multiple Heaps  |
 
 ### Dynamic Programming
-| Question                                                                | Submission                                                                         | Runtime | Rank | Category |
-|-------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------|------|----------|
-| [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePaths.java) | 0ms     | 100% | Grid     |
+| Question                                                                        | Submission                                                                            | Runtime | Rank   | Category |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------|--------|----------|
+| [Unique Paths](https://leetcode.com/problems/unique-paths/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePaths.java)    | 0ms     | 100%   | Grid     |
+| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumPathSum.java) | 3ms     | 71.06% | Grid     |
