@@ -19,15 +19,15 @@ class BacktrackingOne {
             return;
         }
 
-        int oriLen = current.length();
+        int len = current.length();
 
         current.append(first);
         helper(current, n, first, second);
-        current.setLength(oriLen);
+        current.setLength(len);
 
         current.append(second);
         helper(current, n, first, second);
-        current.setLength(oriLen);
+        current.setLength(len);
     }
 
     public static void main(String[] args) {
