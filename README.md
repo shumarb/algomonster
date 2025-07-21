@@ -54,6 +54,7 @@ Some submissions are sourced from my [LeetCode](https://github.com/shumarb/leetc
 |-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|--------|----------------------|
 | [Backtracking](https://algo.monster/problems/backtracking)                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BacktrackingOne.java) | -       | -      | Combinatorial Search |
 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreePaths.java) | 1ms     | 98.42% | Combinatorial Search |
+| [Subsets](https://leetcode.com/problems/subsets/description/)                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Subsets.java)         | 0ms     | 100%   | Additional Practices |
 
 ### Breadth First Search
 | Question                                                                                                                        | Submission                                                                                                    | Runtime | Rank   | Category        |
