@@ -14,12 +14,9 @@ class BacktrackingOne {
     }
 
     private static void helper(StringBuilder current, int n, char first, char second) {
-        if (current.length() > n) {
-            return;
-        }
-
         if (current.length() == n) {
             result.add(current.toString());
+            return;
         }
 
         int oriLen = current.length();
