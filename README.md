@@ -49,6 +49,11 @@ Some submissions are sourced from my [LeetCode](https://github.com/shumarb/leetc
 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LowestCommonAncestorOfABinarySearchTree.java) | 5ms     | 100%   | Binary Search Tree  |
 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LowestCommonAncestorOfABinaryTree.java)       | 6ms     | 100%   | Binary Search Tree  |
 
+### Backtracking
+| Question                                                               | Submission                                                                             | Runtime | Rank | Category             |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|------|----------------------|
+| [Backtracking](https://algo.monster/problems/backtracking)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BacktrackingOne.java) | -       | -    | Combinatorial Search |
+
 ### Breadth First Search
 | Question                                                                                                                        | Submission                                                                                                    | Runtime | Rank   | Category        |
 |---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|--------|-----------------|
