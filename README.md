@@ -1,7 +1,7 @@
 # AlgoMonster
 
 ## Overview
-This repository contains my solutions to [AlgoMonster](https://algo.monster) questions, with some submissions overlapping my [LeetCode](https://github.com/shumarb/leetcode) repository.
+This repository contains my solutions to [AlgoMonster](https://algo.monster) questions, with some overlapping my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
 (*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
 
