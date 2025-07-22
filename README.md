@@ -3,18 +3,10 @@
 ## Overview
 This repository contains my solutions to questions listed on [AlgoMonster](https://algo.monster) across various topics, with submissions sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
-(*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
+Topics (arranged in accordance with training plan): [Binary Search](#binary-search), [Two Pointers](#two-pointers), [Depth First Search](#depth-first-search), [Backtracking](#backtracking), 
+[Breadth First Search](#breadth-first-search), [Priority Queue/Heap](#priority-queue--heap), [Dynamic Programming](#dynamic-programming), [Miscellaneous](#miscellaneous).
 
-| Topic                                         |
-|-----------------------------------------------|
-| [Binary Search](#binary-search)               |
-| [Two Pointers](#two-pointers)                 |
-| [Depth First Search](#depth-first-search)     |
-| [Backtracking](#backtracking)                 |
-| [Breadth First Search](#breadth-first-search) |
-| [Priority Queue/Heap](#priority-queue--heap)  |
-| [Dynamic Programming](#dynamic-programming)   |
-| [Miscellaneous](#miscellaneous)               |
+(*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
 
 ## Submissions
 ### Binary Search
