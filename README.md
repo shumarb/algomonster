@@ -85,4 +85,4 @@ Some submissions are sourced from my [LeetCode](https://github.com/shumarb/leetc
 ### Miscellaneous
 | Question                                                                  | Submission                                                                            | Runtime | Rank   | Category |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------|--------|----------|
-| [Insert Interval](https://leetcode.com/problems/insert-interval/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/InsertInterval.java) | 2ms     | 31.53% |
+| [Insert Interval](https://leetcode.com/problems/insert-interval/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/InsertInterval.java) | 2ms     | 31.53% | Interval |
