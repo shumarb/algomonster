@@ -1,7 +1,18 @@
 # AlgoMonster
 
 ## Overview
-This repository contains my solutions to questions listed on [AlgoMonster](https://algo.monster).
+This repository contains my solutions to questions listed on [AlgoMonster](https://algo.monster) for these topics:
+
+| Topic                                         |
+|-----------------------------------------------|
+| [Binary Search](#binary-search)               |
+| [Two Pointers](#two-pointers)                 |
+| [Depth First Search](#depth-first-search)     |
+| [Backtracking](#backtracking)                 |
+| [Breadth First Search](#breadth-first-search) |
+| [Priority Queue/Heap](#priority-queue--heap)  |
+| [Dynamic Programming](#dynamic-programming)   |
+| [Miscellaneous](#miscellaneous)               |
 
 Some submissions are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
