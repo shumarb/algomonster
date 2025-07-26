@@ -82,6 +82,6 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumPathSum.java) | 3ms     | 71.06% | Grid     |
 
 ### Miscellaneous
-| Question                                                                  | Submission                                                                            | Runtime | Rank   | Category |
-|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------|--------|----------|
-| [Insert Interval](https://leetcode.com/problems/insert-interval/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/InsertInterval.java) | 2ms     | 31.53% | Interval |
+| Question                                                                      | Submission                                                                            | Runtime | Rank   | Category |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------|--------|----------|
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeIntervals.java) | 7ms     | 97.71% |
