@@ -86,4 +86,4 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 ### Miscellaneous
 | Question                                                                      | Submission                                                                            | Runtime | Rank   | Category |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------|--------|----------|
-| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeIntervals.java) | 7ms     | 97.71% |
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeIntervals.java) | 7ms     | 97.71% | Interval |
