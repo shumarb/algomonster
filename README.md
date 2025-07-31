@@ -75,7 +75,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Kth Largest Element in An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/KthLargestElementInAnArray.java)          | 3ms     | 98.86% | Top K           |
 | [Kth Smallest Element In A Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/KthSmallestElementInASortedMatrix.java)   | 11ms    | 65.35% | Top K           |
 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UglyNumberTwo.java)                       | 2ms     | 98.25% | Moving Best     | 
-| [Median of Data Stream](https://algo.monster/problems/median_of_data_stream)                                                  | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MedianFinder.java)                        | 92ms    | 78.28% | Multiple Heaps  |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MedianFinder.java)                        | 92ms    | 78.28% | Multiple Heaps  |
 
 ### Dynamic Programming
 | Question                                                                        | Submission                                                                            | Runtime | Rank   | Category |
