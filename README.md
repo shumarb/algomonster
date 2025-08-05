@@ -58,6 +58,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LetterCombinationsOfAPhoneNumber.java) | 0ms     | 100%   | Combinatorial Search |
 | [Subsets](https://leetcode.com/problems/subsets/description/)                                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Subsets.java)                          | 0ms     | 100%   | Additional Practices |
 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PalindromePartitioning.java)           | 7ms     | 96.05% | Pruning              |
+| [Permutations](https://leetcode.com/problems/permutations/description/)                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Permutations.java)                     | 1ms     | 92.71% | Additional States    |
 
 ### Breadth First Search
 | Question                                                                                                                        | Submission                                                                                                    | Runtime | Rank   | Category        |
