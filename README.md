@@ -57,6 +57,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Backtracking I](https://algo.monster/problems/backtracking)                                                              | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BacktrackingOne.java)                  | -       | -      | Combinatorial Search |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LetterCombinationsOfAPhoneNumber.java) | 0ms     | 100%   | Combinatorial Search |
 | [Subsets](https://leetcode.com/problems/subsets/description/)                                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Subsets.java)                          | 0ms     | 100%   | Additional Practices |
+| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PalindromePartitioning.java)           | 7ms     | 96.05% | Pruning              |
 
 ### Breadth First Search
 | Question                                                                                                                        | Submission                                                                                                    | Runtime | Rank   | Category        |
