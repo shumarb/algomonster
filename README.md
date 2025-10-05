@@ -90,3 +90,4 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | Question                                                                      | Submission                                                                            | Runtime | Rank   | Category |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------|--------|----------|
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeIntervals.java) | 7ms     | 97.71% | Interval |
+| [Insert Interval](https://leetcode.com/problems/insert-interval/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/InsertInterval.java) | 2ms     | 31.53% | Interval |
