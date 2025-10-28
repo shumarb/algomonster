@@ -96,6 +96,6 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Meeting Rooms](https://algo.monster/problems/meeting_rooms)                  | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/MeetingRooms.java) | -       | -      | Interval |
 
 ### LeetCode Editorials
-| Question                                                                      | Submission                                                                             | Runtime | Rank   | Category |
-|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|--------|----------|
+| Question                                                                      | Submission                                                                             | Runtime | Rank   |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|--------|
 | [Two Sum](https://leetcode.com/problems/two-sum/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/TwoSum.java)          | 2ms     | 98.93% |
