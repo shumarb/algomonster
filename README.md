@@ -94,3 +94,4 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeIntervals.java)  | 7ms     | 97.71% | Interval |
 | [Insert Interval](https://leetcode.com/problems/insert-interval/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/InsertInterval.java)  | 2ms     | 31.53% | Interval |
 | [Meeting Rooms](https://algo.monster/problems/meeting_rooms)                  | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/MeetingRooms.java) | -       | -      | Interval |
+| [Two Sum](https://leetcode.com/problems/two-sum/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/TwoSum.java)          | 2ms     | 98.93% |
