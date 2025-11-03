@@ -60,6 +60,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PalindromePartitioning.java)           | 7ms     | 96.05% | Pruning              |
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/GenerateParentheses.java)              | 0ms     | 100%   | Additional States    |
 | [Permutations](https://leetcode.com/problems/permutations/description/)                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Permutations.java)                     | 1ms     | 92.71% | Additional States    |
+| [Combination Sum](https://leetcode.com/problems/combination-sum/description/)                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CombinationSum.java)                   | 1ms     | 99.89% | Deduplication        |
 | [Subsets](https://leetcode.com/problems/subsets/description/)                                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Subsets.java)                          | 0ms     | 100%   | Additional Practices |
 
 ### Breadth First Search
