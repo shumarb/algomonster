@@ -92,6 +92,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | Question                                                                        | Submission                                                                            | Runtime | Rank   | Category |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------|--------|----------|
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ClimbingStairs.java) | 0ms     | 100%   | Warmup   |
+| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)                                                                                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NthTribonacciNumber.java)                                          | 0ms     | 100%   | Warmup   |
 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePaths.java)    | 0ms     | 100%   | Grid     |
 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumPathSum.java) | 3ms     | 71.06% | Grid     |
 
