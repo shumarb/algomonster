@@ -16,6 +16,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SqrtX.java)                               | 1ms     | 86%    | Sorted Array            |
 | [Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindMinimumInRotatedSortedArray.java)     | 0ms     | 100%   | Implicitly Sorted Array |
 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)                | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PeakIndexInAMountainArray.java)           | 0ms     | 100%   | Implicitly Sorted Array |
+| [Newspapers](https://algo.monster/problems/newspapers_split)                                                                  | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/Newspapers.java)                       | -       | -      | Advanced                |
 
 ### Two Pointers
 | Question                                                                                                                                   | Submission                                                                                                       | Runtime | Rank   | Category           |
