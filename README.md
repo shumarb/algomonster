@@ -77,6 +77,11 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeRightSideView.java)             | 1ms     | 71.42% | BFS on Tree |
 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumDepthOfBinaryTree.java)            | 2ms     | 89.35% | BFS on Tree |
 
+### Graph
+| Question                                                              | Submission                                                                             | Runtime | Rank | Category    |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|------|-------------|
+| [Shortest Path](https://algo.monster/problems/shortest_path_unweight) | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/ShortestPath.java) | -       | -    | Vanilla BFS |
+
 ### Priority Queue / Heap
 | Question                                                                                                                      | Submission                                                                                               | Runtime | Rank   | Category       |
 |-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|--------|----------------|
