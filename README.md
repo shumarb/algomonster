@@ -16,7 +16,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SqrtX.java)                               | 1ms     | 86%    | Sorted Array            |
 | [Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindMinimumInRotatedSortedArray.java)     | 0ms     | 100%   | Implicitly Sorted Array |
 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)                | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PeakIndexInAMountainArray.java)           | 0ms     | 100%   | Implicitly Sorted Array |
-| [Newspapers](https://algo.monster/problems/newspapers_split)                                                                  | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/Newspapers.java)                       | -       | -      | Advanced                |
+| [Newspapers](https://algo.monster/problems/newspapers_split)                                                               | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/Newspapers.java)                       | -       | -      | Advanced                |
 
 ### Two Pointers
 | Question                                                                                                                                   | Submission                                                                                                       | Runtime | Rank   | Category           |
@@ -95,13 +95,14 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MedianFinder.java)                      | 99ms    | 63.65% | Multiple Heaps |
 
 ### Dynamic Programming
-| Question                                                                                    | Submission                                                                                 | Runtime | Rank   | Category |
-|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------|--------|----------|
-| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ClimbingStairs.java)      | 0ms     | 100%   | Warmup   |
-| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NthTribonacciNumber.java) | 0ms     | 100%   | Warmup   |
-| [Unique Paths](https://leetcode.com/problems/unique-paths/description/)                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePaths.java)         | 0ms     | 100%   | Grid     |
-| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePathsTwo.java)      | 0ms     | 100%   | Grid     |
-| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumPathSum.java)      | 3ms     | 71.06% | Grid     |
+| Question                                                                                        | Submission                                                                                   | Runtime | Rank   | Category            |
+|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------|--------|---------------------|
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ClimbingStairs.java)        | 0ms     | 100%   | Warmup              |
+| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NthTribonacciNumber.java)   | 0ms     | 100%   | Warmup              |
+| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinCostClimbingStairs.java) | 0ms     | 100%   | Constant Transition |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/description/)                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePaths.java)           | 0ms     | 100%   | Grid                |
+| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePathsTwo.java)        | 0ms     | 100%   | Grid                |
+| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumPathSum.java)        | 3ms     | 71.06% | Grid                |
 
 ### Miscellaneous
 | Question                                                                                    | Submission                                                                                  | Runtime | Rank   | Category        |
