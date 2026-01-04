@@ -112,6 +112,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Meeting Rooms](https://algo.monster/problems/meeting_rooms)                                | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/MeetingRooms.java)      | -       | -      | Interval        |
 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/DailyTemperatures.java)    | 77ms    | 26.55% | Monotonic Stack |
 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SlidingWindowMaximum.java) | 7ms     | 99.46% | Monotonic Stack |
+| [Nth Prime](https://algo.monster/problems/nth_prime)                                        | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/NthPrime.java)          | -       | -      | Math            |
 
 ### LeetCode Editorials
 | Question                                                                      | Submission                                                                             | Runtime | Rank   |
