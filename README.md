@@ -92,7 +92,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Kth Smallest Element In A Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/KthSmallestElementInASortedMatrix.java) | 11ms    | 65.35% | Top K          |
 | [Reorganize String](https://leetcode.com/problems/reorganize-string/description/)                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ReorganizeString.java)                  | 3ms     | 65.10% | Moving Best    |
 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UglyNumberTwo.java)                     | 2ms     | 98.25% | Moving Best    | 
-| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MedianFinder.java)                     | 99ms    | 98.92% | Multiple Heaps |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MedianFinder.java)                      | 99ms    | 98.92% | Multiple Heaps |
 
 ### Dynamic Programming
 | Question                                                                                                    | Submission                                                                                          | Runtime | Rank   | Category                |
@@ -104,6 +104,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePathsTwo.java)               | 0ms     | 100%   | Grid                    |
 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumPathSum.java)               | 3ms     | 71.06% | Grid                    |
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LongestIncreasingSubsequence.java) | 38ms    | 64.87% | Non-constant Transition |
+| [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PerfectSquares.java)               | 150ms   | 13.80% | Knapsack, Weight-Only   |
 
 ### Miscellaneous
 | Question                                                                                    | Submission                                                                                  | Runtime | Rank   | Category        |
