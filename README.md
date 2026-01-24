@@ -104,7 +104,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/UniquePathsTwo.java)               | 0ms     | 100%   | Grid                    |
 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumPathSum.java)               | 3ms     | 71.06% | Grid                    |
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LongestIncreasingSubsequence.java) | 38ms    | 64.87% | Non-constant Transition |
-| [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PerfectSquares.java)               | 150ms   | 13.80% | Knapsack, Weight-Only   |
+| [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PerfectSquares.java)               | 22ms    | 91.76% | Knapsack, Weight-Only   |
 
 ### Miscellaneous
 | Question                                                                                    | Submission                                                                                  | Runtime | Rank   | Category        |
