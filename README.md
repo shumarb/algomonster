@@ -108,6 +108,11 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PerfectSquares.java)               | 22ms    | 91.76% | Knapsack, Weight-Only   |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PalindromicSubstrings.java)        | 5ms     | 97.61% | Interval                |
 
+### Advanced Data Structures
+| Question                                                   | Submission                                                                                 | Runtime | Rank   | Category |
+|------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------|--------|----------|
+| [Prefix Count](https://algo.monster/problems/prefix_count) | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/PrefixCount.java)      | -       | -      | Trie     |
+
 ### Miscellaneous
 | Question                                                                                    | Submission                                                                                  | Runtime | Rank   | Category        |
 |---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------|--------|-----------------|
