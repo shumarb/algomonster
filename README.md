@@ -78,9 +78,10 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumDepthOfBinaryTree.java)            | 2ms     | 89.35% | BFS on Tree |
 
 ### Graph
-| Question                                                              | Submission                                                                             | Runtime | Rank | Category    |
-|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|------|-------------|
-| [Shortest Path](https://algo.monster/problems/shortest_path_unweight) | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/ShortestPath.java) | -       | -    | Vanilla BFS |
+| Question                                                                      | Submission                                                                             | Runtime | Rank   | Category                        |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|--------|---------------------------------|
+| [Shortest Path](https://algo.monster/problems/shortest_path_unweight)         | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/ShortestPath.java) | -       | -      | Vanilla BFS                     |
+| [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CourseSchedule.java)  | 6ms     | 74.22% | Directed Graph/Topological Sort |
 
 ### Priority Queue / Heap
 | Question                                                                                                                      | Submission                                                                                               | Runtime | Rank   | Category       |
