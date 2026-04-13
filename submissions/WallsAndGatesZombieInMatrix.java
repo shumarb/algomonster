@@ -9,100 +9,56 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 class WallsAndGatesZombieInMatrix {
-    private static boolean isTest;
-    private static int key;
-    private static int m;
-    private static int n;
-
     public static List<List<Integer>> mapGateDistances(List<List<Integer>> dungeonMap) {
-        List<List<Integer>> result = new ArrayList<>();
-        isTest = false;
-        key = Integer.MAX_VALUE;
-        m = dungeonMap.size();
-        n = dungeonMap.get(0).size();
-
-        if (isTest) {
-            print("dungeonMap:", dungeonMap);
-        }
-        for (int i = 0; i < m; i++) {
-            List<Integer> row = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
-                int current = dungeonMap.get(i).get(j);
-                if (current != key) {
-                    row.add(current);
-                } else {
-                    row.add(bfs(dungeonMap, i, j));
-                }
-            }
-            result.add(row);
-        }
-        if (isTest) {
-            print("result:", result);
-        }
-
-        return result;
-    }
-
-    private static int bfs(List<List<Integer>> grid, int row, int column) {
         Queue<int[]> queue = new LinkedList<>();
-        boolean[][] isVisited = new boolean[m][n];
-        int[] deltaColumns = new int[] {0, 1, 0, -1};
-        int[] deltaRows = new int[] {-1, 0, 1, 0};
-        int level = 0;
+        boolean isTest = false;
+        int[][] directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+        int INF = Integer.MAX_VALUE;
+        int m = dungeonMap.size();
+        int n = dungeonMap.get(0).size();
 
         if (isTest) {
-            System.out.println("-------------------------------\nbfs @ [" + row + ", " + column + "]");
+            print("before:", dungeonMap);
         }
 
-        queue.offer(new int[] {row, column});
-        isVisited[row][column] = true;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (dungeonMap.get(i).get(j) == 0) {
+                    queue.offer(new int[] {i, j});
+                }
+            }
+        }
         while (!queue.isEmpty()) {
-            if (isTest) {
-                System.out.println("\nlevel: " + level);
-                System.out.print("queue: ");
-                for (int[] point: queue) {
-                    System.out.print("\n * " + Arrays.toString(point) + ": " + grid.get(point[0]).get(point[1]));
-                }
-                System.out.println();
-            }
+            int[] top = queue.poll();
+            int c = top[1];
+            int r = top[0];
 
-            int size = queue.size();
-            for (int i = 0; i < size; i++) {
-                int[] top = queue.poll();
-                int c = top[1];
-                int r = top[0];
+            for (int[] direction: directions) {
+                int adjacentColumn = c + direction[1];
+                int adjacentRow = r + direction[0];
 
-                if (grid.get(r).get(c) == 0) {
-                    if (isTest) {
-                        System.out.println("\n ** exit @ level " + level);
-                    }
-                    return level;
+                if (adjacentColumn < 0 || adjacentColumn >= n || adjacentRow < 0 || adjacentRow >= m) {
+                    continue;
                 }
 
-                for (int j = 0; j < deltaRows.length; j++) {
-                    int adjacentColumn = c + deltaColumns[j];
-                    int adjacentRow = r + deltaRows[j];
-                    if (adjacentColumn >= 0 && adjacentColumn < n
-                            && adjacentRow >= 0 && adjacentRow < m
-                            && grid.get(adjacentRow).get(adjacentColumn) != -1
-                            && !isVisited[adjacentRow][adjacentColumn]) {
-
-                        queue.offer(new int[] {adjacentRow, adjacentColumn});
-                        isVisited[adjacentRow][adjacentColumn] = true;
-                    }
+                if (dungeonMap.get(adjacentRow).get(adjacentColumn) == INF) {
+                    dungeonMap.get(adjacentRow).set(adjacentColumn, dungeonMap.get(r).get(c) + 1);
+                    queue.offer(new int[] {adjacentRow, adjacentColumn});
                 }
             }
-
-            level++;
         }
 
-        return key;
+        if (isTest) {
+            print("-----------------------\nafter:", dungeonMap);
+        }
+
+        return dungeonMap;
     }
 
     private static void print(String s, List<List<Integer>> grid) {
         System.out.println(s);
-        for (List<Integer> e: grid) {
-            System.out.println(e);
+        for (List<Integer> row: grid) {
+            System.out.println(row);
         }
     }
 
@@ -124,3 +80,4 @@ class WallsAndGatesZombieInMatrix {
         }
     }
 }
+
