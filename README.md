@@ -87,7 +87,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfIslands.java)                | 2ms     | 99.93% | Matrix as Graph                   |
 | [Knight Minimum Moves](https://algo.monster/problems/knight_shortest_path)          | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/KnightMinimumMoves.java)          | -       | -      | Matrix as Graph                   |
 | [Walls and Gates / Zombie in Matrix](https://algo.monster/problems/walls_and_gates) | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/WallsAndGatesZombieInMatrix.java) | -       | -      | Matrix as Graph                   |
-| [Word Ladder](https://leetcode.com/problems/word-ladder/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/WordLadder.java)                     | 74ms    | 62.20% | Implicit Graph                    |
+| [Word Ladder](https://leetcode.com/problems/word-ladder/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/WordLadder.java)                     | 69ms    | 70.75% | Implicit Graph                    |
 
 ### Priority Queue / Heap
 | Question                                                                                                                      | Submission                                                                                               | Runtime | Rank   | Category       |
