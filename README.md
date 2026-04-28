@@ -88,6 +88,7 @@ This repository contains my solutions to [AlgoMonster](https://algo.monster) que
 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/WordLadder.java)                     | 69ms    | 70.75% | Implicit Graph                    |
 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/)           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/OpenTheLock.java)                    | 79ms    | 84.29% | Implicit Graph                    |
 | [Task Scheduling](https://algo.monster/problems/task_scheduling)                    | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/TaskScheduling.java)              | -       | -      | Directed Graph / Topological Sort |
+| [Task Scheduling II](https://algo.monster/problems/task_scheduling_2)               | [Java](https://github.com/shumarb/algomonster/blob/main/submissions/TaskSchedulingTwo.java)           | -       | -      | Directed Graph / Topological Sort |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CourseSchedule.java)                 | 6ms     | 74.22% | Directed Graph / Topological Sort |
 
 ### Priority Queue / Heap
