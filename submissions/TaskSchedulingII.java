@@ -10,7 +10,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-class TaskSchedulingTwo {
+class TaskSchedulingII {
     public static int taskScheduling2(List<String> tasks, List<Integer> times, List<List<String>> requirements) {
         Map<String, List<String>> graph = new HashMap<>();
         Map<String, Integer> finish = new HashMap<>();
